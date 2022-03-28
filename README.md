@@ -18,7 +18,7 @@ The purpose of this project is to cluster Interac users into interpretable clust
 ## Needs of this project
 
 - data exploration/descriptive statistics
-- data processing/cleaning/scaling
+- data cleaning/scaling
 - statistical modeling
 - presentation
 
