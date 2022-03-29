@@ -8,7 +8,8 @@ The purpose of this project is to cluster Interac users into interpretable clust
 
 ### Methods Used
 * Inferential Statistics
-* Machine Learning
+* Unsupervised Machine Learning(Kmeans Clustering)
+* Dimension reduction
 * Data Visualization
 
 ### Technologies
@@ -19,12 +20,13 @@ The purpose of this project is to cluster Interac users into interpretable clust
 
 - data exploration/descriptive statistics
 - data cleaning/scaling
-- statistical modeling
-- presentation
+- statistical modelling
+- final presentation delivery
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Run the Jupyter notebook
 
 ## Contributing Members
 
